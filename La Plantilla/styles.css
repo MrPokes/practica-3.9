@@ -1,0 +1,26 @@
+.centrado {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(8, 18, 163);
+    }
+.centrado2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(26, 17, 141);
+        }
+
+    .caja1 {
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+    }
+    
+    .caja2 {
+    width: 300px;
+    height: 250px;
+    display: inline-block; 
+    }
+    
+    
